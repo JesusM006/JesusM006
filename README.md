@@ -63,7 +63,6 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<
 <p align="center">
 <a href="mailto:jesusmartines619@gmail.com"><img src="https://img.shields.io/badge/-JesusM006-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
